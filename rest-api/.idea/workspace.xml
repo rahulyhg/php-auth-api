@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d10e246-caf4-4fcb-b5ec-56aa9ecd43da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/config/core.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/config/database.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/login.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/objects/user.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/update_user.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/validate_token.php" afterDir="false" />
-    </list>
+    <list default="true" id="9d10e246-caf4-4fcb-b5ec-56aa9ecd43da" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +12,7 @@
     <session id="-1663407919">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.opened" value="2" />
         </counts>
@@ -206,16 +198,15 @@
       <option name="presentableId" value="Default" />
       <updated>1539912122727</updated>
       <workItem from="1539912124845" duration="2845000" />
-      <workItem from="1539961509042" duration="5981000" />
+      <workItem from="1539961509042" duration="6116000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8826000" />
+    <option name="totallyTimeSpent" value="8961000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4979592" visible="true" weight="0.25274727" />
       <window_info id="Structure" order="1" sideWeight="0.5020408" side_tool="true" weight="0.25274727" />
